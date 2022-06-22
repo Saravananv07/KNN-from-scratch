@@ -1,0 +1,8 @@
+body{
+    background-image: url('/Users/mac-14/Desktop/knn_from_scratch/static/css/img/Blue Tech Tree Poster Background Material.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+  }
